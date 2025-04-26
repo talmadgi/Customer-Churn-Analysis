@@ -66,7 +66,7 @@ Matplotlib and Seaborn for data visualization
 
 Jupyter Notebook
 
-Git & GitHub for version control
+
 
 # 📋 Conclusion
 This analysis highlights that contract type, payment method, customer tenure, and senior citizenship are key drivers of customer churn.
