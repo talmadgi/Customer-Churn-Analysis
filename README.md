@@ -69,13 +69,13 @@ Jupyter Notebook
 
 
 # 📋 Conclusion
-This analysis highlights that contract type, payment method, customer tenure, and senior citizenship are key drivers of customer churn.
+🔹This analysis highlights that contract type, payment method, customer tenure, and senior citizenship are key drivers of customer churn.
 By offering incentives for long-term contracts, improving support for senior citizens, and promoting alternative payment methods, the company can significantly improve customer retention and reduce churn rates.
 
-Analyzed a dataset of 7,043 customers to identify churn behavior using Python (Pandas, Matplotlib, Seaborn).
+🔹Analyzed a dataset of 7,043 customers to identify churn behavior using Python (Pandas, Matplotlib, Seaborn).
 
-Found that 26.5% of customers churned, with key factors including month-to-month contracts, electronic check payments, and short tenures.
+🔹Found that 26.5% of customers churned, with key factors including month-to-month contracts, electronic check payments, and short tenures.
 
-Delivered 5+ actionable insights to support data-driven customer retention strategies, focusing on senior citizens and contract optimization.
+🔹Delivered 5+ actionable insights to support data-driven customer retention strategies, focusing on senior citizens and contract optimization.
 
 # THANK YOU
